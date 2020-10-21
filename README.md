@@ -1,7 +1,7 @@
 # TotalTakeOver
 
 ## Images
-![starting screen](./TotalTakeOver/assets/img1.png?raw=true "Start Screen" | width=100)
+![starting screen](./TotalTakeOver/assets/img1.png?raw=true | width=100)
 ![error screen](./TotalTakeOver/assets/img2.png?raw=true "Invalid Purchase")
 ![game play](./TotalTakeOver/assets/img3.png?raw=true "Game Play")
 
