@@ -1,9 +1,9 @@
 # TotalTakeOver
 
 ## Images
-![Alt text](./assets/img1?raw=true "Optional Title")
-![Alt text](./assets/img2?raw=true "Optional Title")
-![Alt text](./assets/img3?raw=true "Optional Title")
+![starting screen](./TotalTakeOver/assets/img1?raw=true "Start Screen")
+![error screen](./TotalTakeOver/assets/img2?raw=true "Invalid Purchase")
+![game play](./TotalTakeOver/assets/img3?raw=true "Game Play")
 
 
 ### Description
